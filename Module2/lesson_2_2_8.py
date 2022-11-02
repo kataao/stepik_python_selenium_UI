@@ -5,7 +5,7 @@ import os
 
 try:
     current_dir = os.path.abspath(os.path.dirname(__file__))
-    file_name = "file_example.txt"
+    file_name = "file_example_2_2_8.txt"
     file_path = os.path.join(current_dir, file_name)
 
     link = "https://suninjuly.github.io/file_input.html"
